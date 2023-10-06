@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://romanpoleshko.github.io/learing/",
+  "homepage": "https://romanpoleshko.github.io/learning/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
